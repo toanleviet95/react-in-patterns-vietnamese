@@ -2,7 +2,7 @@
 ### Dịch lại sách Tiếng Việt tham khảo từ nguồn của tác giả Krasimir Tsonev:  
 
 <div align="center">
-  https://krasimir.gitbooks.io/react-in-patterns/content/
+  <div>https://krasimir.gitbooks.io/react-in-patterns/content/</div>
   <img src="https://krasimir.gitbooks.io/react-in-patterns/content/cover.jpg" width="30%" />
 </div>
 
