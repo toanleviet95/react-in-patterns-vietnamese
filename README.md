@@ -8,4 +8,5 @@
 
 ## Nội dung
 
-### Communication - Cách giao tiếp giữa các component
+### [Communication](Communication.md) - Cách giao tiếp giữa các component
+### [Event handlers](Eventhandlers.md) - Xử lý sự kiện
