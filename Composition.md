@@ -281,4 +281,4 @@ Một ứng dụng khác khi sử dụng kỹ thuật này đó là giới hạn
 ```
 
 ### Tóm tắt
-Nếu bạn vẫn đang thắc mắc tại sao HTML vẫn còn ở đây ? Câu trả lời là bởi vì nó vẫn tạo ra được sự kết nối. React và JSX cũng như vậy. Vì vậy bạn hảy đảm bảo rằng bạn đã thực sự rành về tính kết nối của các component. Đó là một trong những ửu điểm lớn nhất mà React mang lại
+Nếu bạn vẫn đang thắc mắc tại sao HTML vẫn còn ở đây ? Câu trả lời là bởi vì nó vẫn tạo ra được sự kết nối. React và JSX cũng như vậy. Vì vậy bạn hảy đảm bảo rằng bạn đã thực sự rành về tính kết nối của các component. Đó là một trong những ưu điểm lớn nhất mà React mang lại
