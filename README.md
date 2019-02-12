@@ -10,3 +10,4 @@
 
 ### [Communication](Communication.md) - Cách giao tiếp giữa các component
 ### [Event handlers](EventHandlers.md) - Xử lý sự kiện
+### [Composition](Composition.md) - Tính gắn kết giữa các component
