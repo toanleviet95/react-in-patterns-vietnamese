@@ -1,4 +1,5 @@
-# React In Patterns (Vietnamese)  
+# React In Patterns (Vietnamese)
+### Đây là quyển sách mà mình rất tâm đắt với tác giả
 ### Dịch lại sách Tiếng Việt tham khảo từ nguồn của tác giả Krasimir Tsonev:  
 
 <div align="center">
@@ -11,3 +12,4 @@
 ### [Communication](Communication.md) - Cách giao tiếp giữa các component
 ### [Event handlers](EventHandlers.md) - Xử lý sự kiện
 ### [Composition](Composition.md) - Tính kết hợp giữa các component
+### [Controlled and uncontrolled inputs](ControlledAnUncontrolledInputs.md) - Dữ liệu đầu vào kiểm soát và không kiểm soát được
