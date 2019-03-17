@@ -1,0 +1,23 @@
+{
+  "projectName": "react-in-patterns-vietnamese",
+  "projectOwner": "toanleviet95",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "toanleviet95",
+      "name": "Lê Viết Toàn",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18593292?v=4",
+      "profile": "https://leviettoan.herokuapp.com",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
