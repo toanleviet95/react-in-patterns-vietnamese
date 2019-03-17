@@ -55,7 +55,7 @@ class Switcher extends React.Component {
 </button>
 ```
 
-Bất tiện của cách viết trên là ta phải viết lại `bind(this)` nhiều lần như trên. Vì thế cách tiếp cận tốt nah6t1 là ta có thể tạo ra nhiều `bindings` trong hàm `constructor` như sau
+Bất tiện của cách viết trên là ta phải viết lại `bind(this)` nhiều lần như trên. Vì thế cách tiếp cận tốt nhất là ta có thể tạo ra nhiều `bindings` trong hàm `constructor` như sau
 
 ```javascript
 class Switcher extends React.Component {
@@ -84,8 +84,7 @@ class Form extends React.Component {
   constructor(props) {
     super(props);
     this._onNameChanged = this._onFieldChange.bind(this, 'name');
-    this._onPasswordChanged =
-      this._onFieldChange.bind(this, 'password');
+    this._onPasswordChanged = this._onFieldChange.bind(this, 'password');
   }
   render() {
     return (
