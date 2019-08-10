@@ -12,6 +12,6 @@
 ### [Communication](Communication.md) - Cách giao tiếp giữa các component
 ### [Event handlers](EventHandlers.md) - Xử lý sự kiện
 ### [Composition](Composition.md) - Tính kết hợp giữa các component
-### [Controlled and Uncontrolled inputs](ControlledAnUncontrolledInputs.md) - Dữ liệu đầu vào kiểm soát và không kiểm soát được
+### [Controlled and Uncontrolled inputs](ControlledAndUncontrolledInputs.md) - Dữ liệu đầu vào kiểm soát và không kiểm soát được
 
 ## Contributors ✨
