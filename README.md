@@ -14,6 +14,7 @@
 ### [Event handlers](EventHandlers.md) - Xử lý sự kiện
 ### [Composition](Composition.md) - Tính kết hợp giữa các component
 ### [Controlled and Uncontrolled inputs](ControlledAndUncontrolledInputs.md) - Dữ liệu đầu vào kiểm soát và không kiểm soát được
+### [Presentational and container components](PresentationalAndContainerComponents.md) - Tổ chức tách component theo dạng hiển thị kết hợp với phần xử lý logic
 
 ## Contributors ✨
 

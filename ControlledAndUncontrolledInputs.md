@@ -78,7 +78,8 @@ class App extends React.Component {
 
 Thuộc tính `ref` nhận vào một string hoặc callback. Đoạn code phí trên sử dụng một callback để lưu DOM của phần tử vào một biến local gọi là `input`. Kế đến khi `onChange` xử lý, chúng ta sẽ nhận được giá trị mới và cập nhật lại cho state
 
->Lưu ý: Việc lạm dụng thuộc tính `ref` không phải là một cách hay vì nó sẽ làm cho input của bạn trở nên khó kiểm soát hơn => Hãy luôn cân nhắc việc sử dụng `Controlled Input` càng nhiều càng tốt
+>Lưu ý: Việc lạm dụng thuộc tính `ref` không phải là một cách hay vì nó sẽ làm cho input của bạn trở nên khó kiểm soát hơn
+>=> Hãy luôn cân nhắc việc sử dụng `Controlled Input` càng nhiều càng tốt
 
 ### Tóm tắt
 Việc sử dụng `Controlled Input` hay `Uncontrolled Input` không phải là vấn đề quá quan trọng. Tuy nhiên nó vẫn đóng vai trò quyết định về luồng dữ liệu trong React component. Theo ý kiến cá nhân, việc sử dụng `Uncontrolled Input` là một kiểu `anti-pattern` và chúng ta nên tránh việc lạm dụng nó khi có thể
