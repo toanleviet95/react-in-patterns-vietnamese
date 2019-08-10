@@ -1,5 +1,5 @@
 # Tách component theo dạng hiển thị & xử lý logic
->Bạn đã từng thử đặt câu hỏi: "Khi tôi truyền dữ liệu làm sao để tôi có thể quản lý state và quản lý sự giao tiếp của component khi có sự thay đổi xảy ra ?"\n
+>Bạn đã từng thử đặt câu hỏi: "Khi tôi truyền dữ liệu làm sao để tôi có thể quản lý state và quản lý sự giao tiếp của component khi có sự thay đổi xảy ra ?"  
 >Rất khó có câu trả lời cụ thể cho câu hỏi trên mà chỉ khi ta bắt tay vào làm thực tiễn một ứng dụng ta mới có thể đúc kết được kinh nghiệm từ đó. Có một kiến trúc mà đa số thường được sử dụng phổ biến giúp chúng ta tổ chức một ứng dụng React đó là "Tách component thành `Phần hiển thị (Presentation)` và `Phần xử lý logic (Container)`
 
 Hãy bắt đầu bằng một ví dụ minh họa sau. Ta có một component `Clock` và ta sẽ truyền vào prop một kiểu dữ liệu `Date` và hiển thị ra thời gian thực
