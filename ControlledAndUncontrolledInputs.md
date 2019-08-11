@@ -81,5 +81,5 @@ Thuộc tính `ref` nhận vào một string hoặc callback. Đoạn code phí 
 >Lưu ý: Việc lạm dụng thuộc tính `ref` không phải là một cách hay vì nó sẽ làm cho input của bạn trở nên khó kiểm soát hơn
 >=> Hãy luôn cân nhắc việc sử dụng `Controlled Input` càng nhiều càng tốt
 
-### Tóm tắt
+### Kết luận
 Việc sử dụng `Controlled Input` hay `Uncontrolled Input` không phải là vấn đề quá quan trọng. Tuy nhiên nó vẫn đóng vai trò quyết định về luồng dữ liệu trong React component. Theo ý kiến cá nhân, việc sử dụng `Uncontrolled Input` là một kiểu `anti-pattern` và chúng ta nên tránh việc lạm dụng nó khi có thể

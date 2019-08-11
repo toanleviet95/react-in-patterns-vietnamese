@@ -100,5 +100,5 @@ class Form extends React.Component {
 };
 ```
 
-### Tóm tắt
+### Kết luận
 Chúng ta có thể có nhiều cách xử lý sự kiện trong React. Nếu ta đã quá quen với các hàm xử lý trong HTML thì việc làm quen xử lý sự kiện trong React không phải là quá khó

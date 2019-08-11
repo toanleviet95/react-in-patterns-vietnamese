@@ -104,5 +104,5 @@ class ResultsPage extends React.Component {
 ```
 Trong ví dụ trên chúng ta `trigger` một request ngay trong `componentDidMount`. Màn hình `Loading` sẽ hiện ra khi chưa có dữ liệu và sẽ hiện ra  danh sách kết quả khi dữ liệu đã được trả về
 
-### Tóm tắt
+### Kết luận
 Có thể xem một component trong React như một `chiếc hộp đen kín` có `input`, `ouput` và `lifcycle` trong đó. Đây là một trong những ưu điểm mà React mang lại giúp chúng ta dễ dàng tiếp cận một cách trừu tượng và dễ hiểu

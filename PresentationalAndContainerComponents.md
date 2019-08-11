@@ -117,5 +117,5 @@ Giúp làm tăng việc tái sử dụng những component. Có thể thấy com
 
 Việc viết test cũng trở nên dễ dàng hơn khi ta chia tách `Container` và `Presentation`
 
-### Tóm tắt
+### Kết luận
 Hai khái niệm `Container` và `Presentation` không còn trở nên quá xa lạ trong các ứng dụng React hiện nay. Cách này giúp cho việc tổ chức ứng dụng và scale lên trở nên dễ dàng hơn
