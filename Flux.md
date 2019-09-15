@@ -242,7 +242,7 @@ var createAction = function (type) {
 
 ![Action-creator](https://krasimir.gitbooks.io/react-in-patterns/content/chapter-08/fluxiny_action_creator.jpg)
 
-`Action creator` là một hướng tiếp cận kah1 là phổ biến mà mọi người thường hay sử dụng
+`Action creator` là một hướng tiếp cận khá là phổ biến mà mọi người thường hay sử dụng
 
 #### Đầy đủ đoạn code thực thi
 
