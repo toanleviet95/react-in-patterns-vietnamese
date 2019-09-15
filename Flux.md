@@ -397,5 +397,5 @@ View(counterStoreSubscriber, actions.increase, actions.decrease);
 
 ### Bản demo
 JSBin: http://jsbin.com/koxidu/embed?js,output
-Github: https://github.com/krasimir/fluxiny/tree/master/example
 
+Github: https://github.com/krasimir/fluxiny/tree/master/example
