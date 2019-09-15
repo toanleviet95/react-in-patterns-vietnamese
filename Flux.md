@@ -324,7 +324,7 @@ Với 66 dòng code trên ước tính sẽ chỉ mất 1.7 KB (795 byte khi min
 Ta sẽ vận dụng lại và làm một ví dụ đơn giản là một app counter
 UI gồm có 2 nút:
 
-```javascript
+```html
 <div id="counter">
   <span></span>
   <button>increase</button>
