@@ -17,6 +17,8 @@
 ### [Presentational and container components](PresentationalAndContainerComponents.md) - Tách component theo dạng hiển thị & xử lý logic
 ### [One direction data flow](OneDirectionDataFlow.md) - Dòng chảy dữ liệu đơn hướng
 ### [Flux](Flux.md) - Kiến trúc Flux
+### [Redux](Redux.md) - Thư viện Redux
+
 
 ## Contributors ✨
 
