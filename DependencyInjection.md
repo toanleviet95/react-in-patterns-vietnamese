@@ -36,7 +36,7 @@ class App extends React.Component {
 
 Nếu chúng ta muốn truyền một chuỗi `"React in patterns"` đến component `Title` thì cách thường làm sẽ là truyền từ `App` đến `Header` rồi từ `Header` đến `Title`. Trong ví dụ trên là đi qua 3 lớp component tuy nhiên nếu số lượng component trở nên nhiều hơn và phân cấp nhiều hơn thì việc truyền thuộc tính như một `proxy` sẽ trở nên khó kiểm soát hơn
 
-Chúng ta đã đọc qua ![`HOC (Higher-order component)`](https://krasimir.gitbooks.io/react-in-patterns/content/chapter-04/#higher-order-component) - Một cách để tách phần dữ liệu. Chúng ta thử vận dụng vào ví dụ trên về cách tách dữ liệu nhé:
+Chúng ta đã đọc qua [`HOC (Higher-order component)`](https://krasimir.gitbooks.io/react-in-patterns/content/chapter-04/#higher-order-component) - Một cách để tách phần dữ liệu. Chúng ta thử vận dụng vào ví dụ trên về cách tách dữ liệu nhé:
 
 ```javascript
 // inject.jsx
@@ -74,7 +74,7 @@ Biến `title` đã được giấu đi nhờ `HOC` khi ta truyền thuộc tín
 
 ### React Context (phiên bản < 16.3)
 
-Ở phiên bản 16.3 React giới thiệu một API gọi là ![`context`](https://facebook.github.io/react/docs/context.html) - `context` là thứ mà mọi component đều có thể tiếp cận được. Ta có thể xem nó như một `store` đơn giản
+Ở phiên bản 16.3 React giới thiệu một API gọi là [`context`](https://facebook.github.io/react/docs/context.html) - `context` là thứ mà mọi component đều có thể tiếp cận được. Ta có thể xem nó như một `store` đơn giản
 
 ```javascript
 // a place where we will define the context
@@ -251,7 +251,7 @@ Sử dụng context theo hướng mới này sẽ giúp chúng ta dễ hiểu h�
 
 Nếu bạn không muốn sử dụng `context` vẫn còn một cách khác tạo ra `injection` đó là tận dụng `Module System` của Node.js
 
-Như chúng ta đã biết cơ chế `caching` của Module System được trích từ tài liệu ![Node.js](https://nodejs.org/api/modules.html#modules_caching):
+Như chúng ta đã biết cơ chế `caching` của Module System được trích từ tài liệu [Node.js](https://nodejs.org/api/modules.html#modules_caching):
 
 >Module được cache sau mỗi lần chúng được load. Điều này nghĩa là mỗi lần gọi `require('foo')` chúng ta đều nhận được cùng một object
 >Việc bạn gọi `require('foo')` cũng không làm cho đoạn code trong module được thực thi nhiều lần. Đây là một lưu ý khá quan trọng
