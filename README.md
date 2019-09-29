@@ -18,7 +18,7 @@
 ### [One direction data flow](OneDirectionDataFlow.md) - Dòng chảy dữ liệu đơn hướng
 ### [Flux](Flux.md) - Kiến trúc Flux
 ### [Redux](Redux.md) - Thư viện Redux
-
+### [Dependency Injection](DependencyInjection.md) - Nâng cao hơn với kỹ thuật Dependency Injection, React Context và Module System
 
 ## Contributors ✨
 
