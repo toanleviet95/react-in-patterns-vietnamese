@@ -19,6 +19,7 @@
 ### [Flux](Flux.md) - Kiến trúc Flux
 ### [Redux](Redux.md) - Thư viện Redux
 ### [Dependency Injection](DependencyInjection.md) - Nâng cao hơn với kỹ thuật Dependency Injection, React Context và Module System
+### [Styling](Styling.md) - Các cách Style CSS trong React
 
 ## Contributors ✨
 
