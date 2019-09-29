@@ -253,8 +253,7 @@ Nếu bạn không muốn sử dụng `context` vẫn còn một cách khác t�
 
 Như chúng ta đã biết cơ chế `caching` của Module System được trích từ tài liệu [Node.js](https://nodejs.org/api/modules.html#modules_caching):
 
->Module được cache sau mỗi lần chúng được load. Điều này nghĩa là mỗi lần gọi `require('foo')` chúng ta đều nhận được cùng một object
->Việc bạn gọi `require('foo')` cũng không làm cho đoạn code trong module được thực thi nhiều lần. Đây là một lưu ý khá quan trọng
+>Module được cache sau mỗi lần chúng được load. Điều này nghĩa là mỗi lần gọi `require('foo')` chúng ta đều nhận được cùng một object. Việc bạn gọi `require('foo')` cũng không làm cho đoạn code trong module được thực thi nhiều lần. Đây là một lưu ý khá quan trọng
 
 Vậy việc này giúp ích gì cho việc `injection` của bạn ? Nếu bạn export một object cụ thể là một dạng `singleton` và mỗi khi module khác import vào sẽ đều cùng nhận một object. Điều này cho phép bạn `register` dependency và sau cùng bạn chỉ cần `fetch` chúng ở file khác
 
