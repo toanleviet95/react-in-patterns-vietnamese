@@ -1,5 +1,5 @@
 # Tích hợp với thư viện bên thứ ba
->React rõ ràng là một sự lựa chọn hoàn hảo cho việc xây dựng UI. Tuy nhiên trong vài tình huống 1ta vẫn cần phải tích hợp thêm thư viện bên thứ ba. Chúng ta đều biết rằng React gặp khó khăn khi làm việc với `actual DOM` (thay vì virtual DOM). Ở bài viết này sẽ chỉ cách cho chúng ta tích hợp React với một jQuery plugin 
+>React rõ ràng là một sự lựa chọn hoàn hảo cho việc xây dựng UI. Tuy nhiên trong vài tình huống ta vẫn cần phải tích hợp thêm thư viện bên thứ ba. Chúng ta đều biết rằng React gặp khó khăn khi làm việc với `actual DOM` (thay vì virtual DOM). Ở bài viết này sẽ chỉ cách cho chúng ta tích hợp React với một jQuery plugin 
 
 ### Ví dụ
 Chúng ta sẽ thử chọn một plugin gọi là `[tag-it](https://github.com/aehlke/tag-it)` của jQuery:

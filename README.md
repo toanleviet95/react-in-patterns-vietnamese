@@ -21,6 +21,7 @@
 ### [Dependency Injection](DependencyInjection.md) - Nâng cao hơn với kỹ thuật Dependency Injection, React Context và Module System
 ### [Styling](Styling.md) - Các cách Style CSS trong React
 ### [Integration of 3rd Party](IntegrationOf3rdParty.md) - Tích hợp với thư viện bên thứ ba
+### [React and separation of concerns](ReactAndSeparationOfConcerns.md) - React và những vấn đề về tổ chức mã nguồn
 
 ## Contributors ✨
 
